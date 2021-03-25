@@ -1,0 +1,33 @@
+h1{
+  font-family: 'Alata', sans-serif;
+
+}
+#intro{
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+
+body{
+  background-color: #cbf1f5;
+  text-align: center;
+}
+
+.Main-Body{
+  background-color: white;
+  padding-top: 30px;
+  height: 700px;
+  width: 1100px;
+  margin: 0 auto;
+}
+
+p{
+  line-height:  30px;
+}
+
+form{
+  line-height: 4;
+}
+
+label{
+  font-family: 'Baloo Tamma 2', cursive;
+}
